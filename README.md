@@ -2,7 +2,8 @@
 
 <h1 align="center">UBClaude</h1>
 <p align="center"><b>Your Claude Code usage limits, live in the Mac menu bar.</b></p>
-<p align="center"><a href="https://usagebarclaude.com/?utm_source=github&utm_campaign=readme">Website</a> · <a href="https://usagebarclaude.com/UBClaude.dmg">Download</a> · <a href="https://usagebarclaude.com/guides?utm_source=github&utm_campaign=readme">Guides</a></p>
+<p align="center"><a href="../../releases/latest"><b>⬇ Download for Mac</b></a> · <a href="docs/README.md">Documentation</a> · <a href="https://usagebarclaude.com/?utm_source=github&utm_campaign=readme">Website</a> · <a href="https://usagebarclaude.com/guides?utm_source=github&utm_campaign=readme">Guides</a></p>
+<p align="center">Free for 24 hours · then $9 once · <b>not open source</b> (proprietary, see <a href="LICENSE">LICENSE</a>)</p>
 
 ![UBClaude: never hit your Claude Code limit by surprise](assets/ubclaude.png)
 
@@ -22,6 +23,14 @@ UBClaude is a tiny native macOS app that shows your **Claude Code 5-hour session
 ## Private by design
 
 No account. UBClaude uses the Claude Code login already stored on your Mac and only talks to Anthropic to read your usage. Token stats are counted locally; nothing is sent anywhere else.
+
+## Install
+
+1. Download **UBClaude.dmg** from the [latest release](../../releases/latest).
+2. Drag UBClaude into Applications and open it: it appears in the menu bar.
+3. Use it free for 24 hours, then activate with the key from your purchase email.
+
+Full guide: [docs/installation.md](docs/installation.md) · [Free trial and activation](docs/activation.md) · [Troubleshooting](docs/troubleshooting.md) · [FAQ](docs/faq.md)
 
 ## Requirements
 
@@ -46,5 +55,7 @@ Get it at **[usagebarclaude.com](https://usagebarclaude.com/?utm_source=github&u
 Found a bug or have an idea? [Open an issue](../../issues) or email **contact@usagebarclaude.com**.
 
 ---
+
+**Licence:** proprietary, all rights reserved. This repository contains documentation and official builds only; the source code is not published. See [LICENSE](LICENSE).
 
 UBClaude is an independent app made by North Stack Digital Ltd. It is not affiliated with, endorsed by or sponsored by Anthropic. Claude and Claude Code are trademarks of Anthropic PBC.
